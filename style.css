@@ -19,6 +19,7 @@ h2 {
 
 span:first-of-type {
     font-weight: bolder;
+    color: tomato;
 }
 
 #gameScore {
